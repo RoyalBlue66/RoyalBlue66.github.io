@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Broken World — Terra-Gaia</title>
+<title>The Broken World — Rhea</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
@@ -477,7 +477,7 @@
 
 <!-- NAV -->
 <nav>
-  <a class="nav-logo" href="#hero">Terra-Gaia</a>
+  <a class="nav-logo" href="#hero">Rhea</a>
   <ul class="nav-links">
     <li><a href="#world">World</a></li>
     <li><a href="#constellations">Constellations</a></li>
@@ -493,7 +493,7 @@
   <canvas id="starfield"></canvas>
   <p class="hero-eyebrow">Year 6060 — God is dead. Humanity killed him.</p>
   <h1 class="hero-title">The <span>Broken</span> World</h1>
-  <p class="hero-sub">A fragment of the old world, held together by the Foundation Engine and the music no one hears but everyone carries. Welcome to Terra-Gaia.</p>
+  <p class="hero-sub">A fragment of the old world, held together by the Foundation Engine and the music no one hears but everyone carries. Welcome to Rhea.</p>
   <div class="hero-meta">
     <div class="hero-stat">
       <span class="hero-stat-num">12</span>
@@ -521,7 +521,7 @@
 <section id="world">
   <span class="section-label">Foundations</span>
   <h2 class="section-title">How This World Works</h2>
-  <p class="section-intro">Terra-Gaia runs on code. When god died and reality began to collapse, the first Genius built the Foundation Engine — rewriting existence itself as a stable system. Everything since has been built on that foundation.</p>
+  <p class="section-intro">Rhea runs on code. When god died and reality began to collapse, the first Genius built the Foundation Engine — rewriting existence itself as a stable system. Everything since has been built on that foundation.</p>
   <div class="world-grid">
     <div class="world-card">
       <span class="world-card-icon">⚙️</span>
@@ -546,7 +546,7 @@
     <div class="world-card">
       <span class="world-card-icon">💎</span>
       <div class="world-card-title">Orichalcum</div>
-      <div class="world-card-body">The rarest material in Terra-Gaia. Only found in Concordia. The only substance that can harm Glitch entities. Every nation's need for it is why Concordia holds more global power than any army could provide.</div>
+      <div class="world-card-body">The rarest material in Rhea. Only found in Concordia. The only substance that can harm Glitch entities. Every nation's need for it is why Concordia holds more global power than any army could provide.</div>
     </div>
     <div class="world-card">
       <span class="world-card-icon">👁️</span>
@@ -611,13 +611,13 @@
 <!-- NATIONS -->
 <section id="nations">
   <span class="section-label">The Map</span>
-  <h2 class="section-title">Nations of Terra-Gaia</h2>
+  <h2 class="section-title">Nations of Rhea</h2>
   <p class="section-intro">Thirteen nations, each with its own history, culture, and relationship to Concordia's authority. The year is 6060. The Age of Peace is holding — barely.</p>
   <div class="nations-grid" id="nations-grid"></div>
 </section>
 
 <footer>
-  <div class="footer-title">The Broken World — Terra-Gaia</div>
+  <div class="footer-title">The Broken World — Rhea</div>
   <div class="footer-sub">Year 6060 &nbsp;·&nbsp; This document is a living record</div>
 </footer>
 
